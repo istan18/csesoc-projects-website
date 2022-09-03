@@ -86,11 +86,11 @@ h4 {
 	justify-content: left;
 }
 
-#AboutMeImages {
+#aboutmeimg {
 	display: block;
 	margin-left: auto;
 	margin-right: 150px;
-	padding-bottom:50px;
+	padding-bottom:10px;
 	padding-right:75px;
 	float:right;
 }
